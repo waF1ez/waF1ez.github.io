@@ -15,3 +15,4 @@ Completed:
 * Riley Emery
 * Mohit Toor
 * Samee Maqbool
+* Jannat Kaur Sandhu
