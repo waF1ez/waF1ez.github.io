@@ -16,3 +16,4 @@ Completed:
 * Mohit Toor
 * Samee Maqbool
 * Jannat Kaur Sandhu
+* Bismanpreet Kaur
